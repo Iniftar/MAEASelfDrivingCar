@@ -1,4 +1,3 @@
 # MAEASelfDrivingCar
-Lego Mindstorms NXT Project - By MAEA Robotics, a member of the Iniftar Foundations.
+Lego Mindstorms NXT project by MAEA Projects, a young associate of The Iniftar Foundations'
 
-MAEA Robotics: http://www.maea.site
